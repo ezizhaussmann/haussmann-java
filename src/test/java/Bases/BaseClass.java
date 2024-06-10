@@ -1,6 +1,6 @@
 package Bases;
 
-import org.magento.utilsclasses.Config;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BaseClass {
